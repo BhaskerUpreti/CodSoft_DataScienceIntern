@@ -1,0 +1,14 @@
+Titanic Survival:-
+https://www.kaggle.com/datasets/brendan45774/test-file
+
+Movie Rating:- 
+https://www.kaggle.com/code/sherinclaudia/movie-rating-prediction/notebook
+
+Iris Flower:-
+https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+
+Sales Prediction:-
+https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
+
+Credit Card:-
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
